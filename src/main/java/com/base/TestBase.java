@@ -34,6 +34,7 @@ public class TestBase {
 		}
 	}
 
+	//Initialization
 	public void initialization() {
 		String browserName = prop.getProperty("browser");
 		//Disable Notifications Popups
